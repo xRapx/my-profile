@@ -1,0 +1,11 @@
+### signup
+@url_dev=http://localhost:5000/api/users
+
+# POST {{url_dev}}/:id
+GET  {{url_dev}}/66691c4f3c1ad0426c38439d
+Content-Type: application/json
+
+
+{
+	
+}

@@ -42,6 +42,8 @@ const CreatePost = () => {
           />
           <input
             type="file"
+            name="avatar"
+            multiple
             onChange={(e) => setThumbnail(e.target.files[0])}
             accept="jpg,png,jpeg"
           />
